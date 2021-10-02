@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Order = () => {
+const NotPound = () => {
      return (
           <div>
+               <h1>not pound</h1>
 
           </div>
      );
 };
 
-export default Order;
+export default NotPound;
